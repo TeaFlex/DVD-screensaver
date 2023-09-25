@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+#screen {
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.dvdLogo {
+    height: 10vh;
+    position: absolute;
+    width: fit-content;
+    /* border: 2px solid red; */
+}
